@@ -1,3 +1,7 @@
 .DS_Store
 datadump*
 .ipynb_checkpoints
+/Kursach/train.csv
+/Kursach/test.csv
+/Kursach/sample_submission.csv
+/Kursach/mlruns/*
